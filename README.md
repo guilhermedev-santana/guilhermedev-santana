@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! Eu sou o Guilherme 👋
 
-<!--
-**guilhermedev-santana/guilhermedev-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento Back-end  
+☕ Atualmente estudando Java, POO e Banco de Dados  
+🚀 Construindo projetos para desenvolver minhas habilidades em programação
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Desenvolvimento de Sistemas e tenho como objetivo atuar profissionalmente na área de desenvolvimento de software, com foco em Back-end.
+
+Atualmente estou aprofundando meus conhecimentos em Java,
+Programação Orientada a Objetos, SQL e MySQL.
+
+## 🛠️ Tecnologias
+
+- Java
+- C
+- SQL
+- MySQL
+- Git
+- GitHub
+- JavaScript
+
+## 📚 Atualmente estudando
+
+- Java
+- Programação Orientada a Objetos
+- Banco de Dados
+- Git e GitHub
+- Desenvolvimento Back-end
+
+## 📌 Projetos
+
+- 🏥 Sistema de Gestão Hospitalar
+- 🚗 Sistema de Gestão de Estacionamento
+- 🎓 Sistema de Gestão Acadêmica
+- 📚 Banco de Dados de Livraria
+
+## 📫 Contato
+
+🔗 [LinkedIn](guilhermecarvalho07)
