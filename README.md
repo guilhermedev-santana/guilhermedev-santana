@@ -1,9 +1,10 @@
-# Olá! Eu sou o Guilherme 👋
+# Olá! Eu sou o Guilherme
+##💻 Desenvolvedor em formação | Java | Back-end
 
-🎓 Estudante de Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento Back-end  
-☕ Atualmente estudando Java, POO e Banco de Dados  
-🚀 Construindo projetos para desenvolver minhas habilidades em programação
+🎓 Estudante de Desenvolvimento de Sistemas
+☕ Java & Programação Orientada a Objetos
+🗄️ SQL & MySQL
+🚀 Construindo minha carreira em Back-end
 
 ## 🧑‍💻 Sobre mim
 
@@ -24,11 +25,10 @@ Programação Orientada a Objetos, SQL e MySQL.
 
 ## 📚 Atualmente estudando
 
-- Java
-- Programação Orientada a Objetos
-- Banco de Dados
-- Git e GitHub
-- Desenvolvimento Back-end
+- 🏥 [Sistema de Gestão Hospitalar]([LINK_DO_REPOSITORIO](https://github.com/guilhermedev-santana/Sistema_Gestao_Hospitalar.git))
+- 🚗 [Sistema de Gestão de Estacionamento]([LINK_DO_REPOSITORIO](https://github.com/guilhermedev-santana/Sistema_Gestao_Estacionamento.git))
+- 🎓 [Sistema de Gestão Acadêmica]([LINK_DO_REPOSITORIO](https://github.com/guilhermedev-santana/Sistema_Gestao_Academica.git))
+- 📚 [Banco de Dados de Livraria]([LINK_DO_REPOSITORIO](https://github.com/guilhermedev-santana/Sistema_Gerenciamento_Livraria.git))
 
 ## 📌 Projetos
 
